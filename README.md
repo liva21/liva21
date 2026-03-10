@@ -151,18 +151,7 @@ Full chapter-by-chapter Turkish explanations for the ML community.
 
 ---
 
-## 💼 Experience Highlights
 
-```
-2025  ──────────────────────────────────────────────────────────────────────────────
-  ▸  AI Engineer Intern    @  Kawien AI       │ RAG · Whisper · Domain AI Platform
-  ▸  SWE Intern            @  FLO Group       │ iOS App · AI Risk Scoring · KPI Dashboard
-  ▸  IT Intern             @  TNC Group       │ Python · Business Automation
-2024  ──────────────────────────────────────────────────────────────────────────────
-  ▸  IT Support Specialist @  SDU Isparta     │ 500+ users · 30% efficiency improvement
-```
-
----
 
 ## 🎯 Currently Seeking
 
