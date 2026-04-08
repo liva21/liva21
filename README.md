@@ -88,7 +88,7 @@ Full production ML system with:
 </td>
 <td width="50%">
 
-### 📊 [Financial Sentiment API](https://github.com/liva21/financial-sentiment-api)
+### 📊 [Financial Sentiment API](https://github.com/liva21/financial-sentiment-api-2)
 **Production NLP Service — TR & EN**
 
 Bilingual financial news classifier:
